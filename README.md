@@ -1,4 +1,5 @@
 
+![](https://6lj.github.io/interactive-3D-planets//b.gif)
 
 A 3D drawing of all the planets inside a web page, built with [Three.js](https://threejs.org/).
 
